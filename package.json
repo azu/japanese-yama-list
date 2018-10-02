@@ -1,0 +1,34 @@
+{
+  "name": "japanese-yama-list",
+  "version": "1.0.0",
+  "description": "日本の主な山岳標高一覧を返すライブラリ",
+  "keywords": [
+    "japanese",
+    "mountain"
+  ],
+  "homepage": "https://github.com/azu/japanese-yama-list",
+  "bugs": {
+    "url": "https://github.com/azu/japanese-yama-list/issues"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/japanese-yama-list.git"
+  },
+  "scripts": {
+    "build": "node scripts/fetch.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "node-fetch": "^2.2.0",
+    "text-encoding": "^0.7.0"
+  }
+}
