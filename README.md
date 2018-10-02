@@ -1,4 +1,4 @@
-# japanese-yama-list
+# japanese-yama-list [![Build Status](https://travis-ci.org/azu/japanese-yama-list.svg?branch=master)](https://travis-ci.org/azu/japanese-yama-list)
 
 日本の主な山岳標高一覧を返すライブラリ。
 
