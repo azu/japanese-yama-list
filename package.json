@@ -1,6 +1,6 @@
 {
   "name": "japanese-yama-list",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "日本の主な山岳標高一覧を返すライブラリ",
   "keywords": [
     "japanese",
