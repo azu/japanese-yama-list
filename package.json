@@ -13,9 +13,8 @@
   "license": "MIT",
   "author": "azu",
   "files": [
-    "bin/",
-    "lib/",
-    "src/"
+    "index.js",
+    "data/"
   ],
   "main": "index.js",
   "repository": {
