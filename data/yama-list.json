@@ -680,7 +680,7 @@
         "nameFurigana": "びえいだけ",
         "crestName": "",
         "crestNameFurigana": "",
-        "otherName": "<img src=img/gaiji1.gif border=0>",
+        "otherName": "",
         "details": "",
         "address": "石狩山地",
         "prefectures": [
@@ -3311,7 +3311,7 @@
         "latitude": "383432",
         "longitude": "1404219",
         "height": "553",
-        "name": "<img src=img/gaiji2.gif border=0>",
+        "name": "",
         "nameFurigana": "やくらいさん",
         "crestName": "",
         "crestNameFurigana": "",
@@ -3392,7 +3392,7 @@
         "latitude": "380837",
         "longitude": "1402624",
         "height": "1841",
-        "name": "蔵王山　　　　　　　　",
+        "name": "蔵王山",
         "nameFurigana": "ざおうざん（ざおうさん）",
         "crestName": "熊野岳",
         "crestNameFurigana": "くまのだけ",
@@ -3408,7 +3408,7 @@
         "latitude": "380740",
         "longitude": "1402653",
         "height": "1758",
-        "name": "蔵王山　　　　　　　　",
+        "name": "蔵王山",
         "nameFurigana": "ざおうざん（ざおうさん）",
         "crestName": "刈田岳",
         "crestNameFurigana": "かっただけ",
@@ -3424,9 +3424,9 @@
         "latitude": "380545",
         "longitude": "1402834",
         "height": "1825",
-        "name": "蔵王山　　　　　　　　",
+        "name": "蔵王山",
         "nameFurigana": "ざおうざん（ざおうさん）",
-        "crestName": "<img src=img/gaiji3.gif border=0>",
+        "crestName": "",
         "crestNameFurigana": "びょうぶだけ",
         "otherName": "標高点",
         "details": "山名変更：Ｈ30関係自治体からの申請による",
@@ -3440,7 +3440,7 @@
         "latitude": "380432",
         "longitude": "1402844",
         "height": "1705",
-        "name": "蔵王山　　　　　　　　",
+        "name": "蔵王山",
         "nameFurigana": "ざおうざん（ざおうさん）",
         "crestName": "不忘山（御前岳）",
         "crestNameFurigana": "ふぼうさん（ごぜんだけ）",
@@ -3670,7 +3670,7 @@
         "height": "273",
         "name": "高館山",
         "nameFurigana": "たかだてやま",
-        "crestName": "　",
+        "crestName": "",
         "crestNameFurigana": "",
         "otherName": "高舘山",
         "details": "Ｈ23三角点再設置",
@@ -3815,7 +3815,7 @@
         "height": "1417",
         "name": "祝瓶山",
         "nameFurigana": "いわいがめやま",
-        "crestName": "　",
+        "crestName": "",
         "crestNameFurigana": "",
         "otherName": "祝瓶山",
         "details": "",
@@ -3877,11 +3877,11 @@
         "latitude": "375633",
         "longitude": "1393632",
         "height": "1636",
-        "name": "<img src=img/gaiji4.gif border=0>",
+        "name": "",
         "nameFurigana": "えぶりさしだけ",
         "crestName": "",
         "crestNameFurigana": "",
-        "otherName": "<img src=img/gaiji4-1.gif border=0>",
+        "otherName": "",
         "details": "",
         "address": "飯豊山地",
         "prefectures": [
@@ -4547,7 +4547,7 @@
         "crestName": "一番岳",
         "crestNameFurigana": "いちばんだけ",
         "otherName": "七ツケ岳",
-        "details": "　",
+        "details": "",
         "address": "南会津・尾瀬",
         "prefectures": [
             "福島県"
@@ -4726,7 +4726,7 @@
         "height": "2356",
         "name": "燧ヶ岳",
         "nameFurigana": "ひうちがたけ",
-        "crestName": "<img src=img/gaiji5.gif border=0>",
+        "crestName": "",
         "crestNameFurigana": "しばやすぐら",
         "otherName": "測定点",
         "details": "",
@@ -7361,7 +7361,7 @@
         "crestNameFurigana": "",
         "otherName": "黒姫山",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県"
         ]
@@ -7377,7 +7377,7 @@
         "crestNameFurigana": "",
         "otherName": "明星",
         "details": "Ｈ26三角点標高改訂　山名（よみ）変更：Ｈ27関係自治体からの申請による",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県"
         ]
@@ -7393,7 +7393,7 @@
         "crestNameFurigana": "",
         "otherName": "犬ケ岳",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "富山県"
@@ -7410,7 +7410,7 @@
         "crestNameFurigana": "",
         "otherName": "雪倉",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "富山県"
@@ -7427,7 +7427,7 @@
         "crestNameFurigana": "",
         "otherName": "六兵衛",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "富山県"
@@ -7444,7 +7444,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "富山県"
@@ -7461,7 +7461,7 @@
         "crestNameFurigana": "",
         "otherName": "測定点",
         "details": "大日岳（だいにちだけ）　Ｈ20現地計測による標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "長野県"
@@ -7478,7 +7478,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "新潟県",
             "長野県"
@@ -7495,7 +7495,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -7511,7 +7511,7 @@
         "crestNameFurigana": "",
         "otherName": "白馬岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7528,7 +7528,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7544,7 +7544,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7560,7 +7560,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7577,7 +7577,7 @@
         "crestNameFurigana": "",
         "otherName": "槍ケ岳",
         "details": "白馬鑓ヶ岳（しろうまやりがたけ）",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7594,7 +7594,7 @@
         "crestNameFurigana": "",
         "otherName": "唐松谷",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7611,7 +7611,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7627,7 +7627,7 @@
         "crestNameFurigana": "",
         "otherName": "鹿島入",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7644,7 +7644,7 @@
         "crestNameFurigana": "",
         "otherName": "祖父岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7661,7 +7661,7 @@
         "crestNameFurigana": "",
         "otherName": "西岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7678,7 +7678,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7695,7 +7695,7 @@
         "crestNameFurigana": "",
         "otherName": "牛小屋沢",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7712,7 +7712,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7729,7 +7729,7 @@
         "crestNameFurigana": "",
         "otherName": "野口",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7746,7 +7746,7 @@
         "crestNameFurigana": "",
         "otherName": "蓮華岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0>山 脈北部",
+        "address": "山 脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7763,7 +7763,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7780,7 +7780,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7797,7 +7797,7 @@
         "crestNameFurigana": "",
         "otherName": "烏帽子岳",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7814,7 +7814,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7831,7 +7831,7 @@
         "crestNameFurigana": "",
         "otherName": "三ツ岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7848,7 +7848,7 @@
         "crestNameFurigana": "",
         "otherName": "五郎岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7865,7 +7865,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -7881,7 +7881,7 @@
         "crestNameFurigana": "",
         "otherName": "赤手岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7897,7 +7897,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7913,7 +7913,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7929,7 +7929,7 @@
         "crestNameFurigana": "",
         "otherName": "中俣",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "長野県"
@@ -7946,7 +7946,7 @@
         "crestNameFurigana": "",
         "otherName": "三ツ又",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "岐阜県",
@@ -7964,7 +7964,7 @@
         "crestNameFurigana": "",
         "otherName": "尾ノ沼",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7980,7 +7980,7 @@
         "crestNameFurigana": "",
         "otherName": "毛勝山",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -7996,7 +7996,7 @@
         "crestNameFurigana": "",
         "otherName": "猫又",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8012,7 +8012,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8028,7 +8028,7 @@
         "crestNameFurigana": "",
         "otherName": "測定点",
         "details": "Ｈ16現地計測による標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8044,7 +8044,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8060,7 +8060,7 @@
         "crestNameFurigana": "",
         "otherName": "別山",
         "details": "つるがごぜん",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8076,7 +8076,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8092,7 +8092,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8108,7 +8108,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8124,7 +8124,7 @@
         "crestNameFurigana": "おおなんじやま",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8140,7 +8140,7 @@
         "crestNameFurigana": "",
         "otherName": "大横手",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8156,7 +8156,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8172,7 +8172,7 @@
         "crestNameFurigana": "じょうどさん",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8188,7 +8188,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8204,7 +8204,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8220,7 +8220,7 @@
         "crestNameFurigana": "",
         "otherName": "栂山",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8236,7 +8236,7 @@
         "crestNameFurigana": "",
         "otherName": "鍬崎山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8252,7 +8252,7 @@
         "crestNameFurigana": "",
         "otherName": "薬師ケ岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県"
         ]
@@ -8268,7 +8268,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "岐阜県"
@@ -8285,7 +8285,7 @@
         "crestNameFurigana": "",
         "otherName": "黒部",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "富山県",
             "岐阜県"
@@ -8302,7 +8302,7 @@
         "crestNameFurigana": "",
         "otherName": "中俣岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8319,7 +8319,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8336,7 +8336,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "ゆみおれだけ",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "岐阜県"
         ]
@@ -8352,7 +8352,7 @@
         "crestNameFurigana": "",
         "otherName": "奥笠ケ岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "岐阜県"
         ]
@@ -8368,7 +8368,7 @@
         "crestNameFurigana": "",
         "otherName": "笠ケ岳",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "岐阜県"
         ]
@@ -8384,7 +8384,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "岐阜県"
         ]
@@ -8400,7 +8400,7 @@
         "crestNameFurigana": "",
         "otherName": "焼山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -8416,7 +8416,7 @@
         "crestNameFurigana": "",
         "otherName": "唐沢",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -8432,7 +8432,7 @@
         "crestNameFurigana": "",
         "otherName": "餓飢",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -8448,7 +8448,7 @@
         "crestNameFurigana": "",
         "otherName": "燕岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -8464,7 +8464,7 @@
         "crestNameFurigana": "",
         "otherName": "有明山",
         "details": "ありあけさん",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+        "address": "山脈北部",
         "prefectures": [
             "長野県"
         ]
@@ -8480,7 +8480,7 @@
         "crestNameFurigana": "",
         "otherName": "天章山",
         "details": "おてんしょうだけ",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8496,7 +8496,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8512,7 +8512,7 @@
         "crestNameFurigana": "",
         "otherName": "赤樽",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8528,7 +8528,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8544,7 +8544,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8560,7 +8560,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8576,7 +8576,7 @@
         "crestNameFurigana": "",
         "otherName": "筆波美",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8592,7 +8592,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8608,7 +8608,7 @@
         "crestNameFurigana": "",
         "otherName": "赤沢山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8624,7 +8624,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8640,7 +8640,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8657,7 +8657,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "なかのだけ",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8674,7 +8674,7 @@
         "crestNameFurigana": "",
         "otherName": "北穂高",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8691,7 +8691,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8708,7 +8708,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8725,7 +8725,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8742,7 +8742,7 @@
         "crestNameFurigana": "",
         "otherName": "穂高岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8758,7 +8758,7 @@
         "crestNameFurigana": "",
         "otherName": "前穂高",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8775,7 +8775,7 @@
         "crestNameFurigana": "",
         "otherName": "焼岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8792,7 +8792,7 @@
         "crestNameFurigana": "",
         "otherName": "霞沢岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -8808,7 +8808,7 @@
         "crestNameFurigana": "",
         "otherName": "十石山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8825,7 +8825,7 @@
         "crestNameFurigana": "",
         "otherName": "貝塩",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "岐阜県"
         ]
@@ -8841,7 +8841,7 @@
         "crestNameFurigana": "けんがみね",
         "otherName": "乗鞍岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "岐阜県",
             "長野県"
@@ -8858,7 +8858,7 @@
         "crestNameFurigana": "",
         "otherName": "鎌ケ峰",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県",
             "岐阜県"
@@ -8875,7 +8875,7 @@
         "crestNameFurigana": "",
         "otherName": "鉢盛山",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+        "address": "山脈南部",
         "prefectures": [
             "長野県"
         ]
@@ -9177,7 +9177,7 @@
         "height": "2798",
         "name": "南駒ヶ岳",
         "nameFurigana": "みなみこまがたけ",
-        "crestName": " 赤梛岳",
+        "crestName": "赤梛岳",
         "crestNameFurigana": "あかなぎだけ",
         "otherName": "標高点",
         "details": "",
@@ -10722,7 +10722,7 @@
         "crestNameFurigana": "",
         "otherName": "鍬崎",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "富山県"
         ]
@@ -10738,7 +10738,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "富山県",
             "岐阜県"
@@ -10755,7 +10755,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "富山県"
         ]
@@ -10771,7 +10771,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県",
             "富山県"
@@ -10788,7 +10788,7 @@
         "crestNameFurigana": "",
         "otherName": "三ケ辻",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10804,7 +10804,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "さるがばんばやま",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10820,7 +10820,7 @@
         "crestNameFurigana": "",
         "otherName": "御前岳",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10836,7 +10836,7 @@
         "crestNameFurigana": "",
         "otherName": "大雨見山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10852,7 +10852,7 @@
         "crestNameFurigana": "",
         "otherName": "位山",
         "details": "",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10868,7 +10868,7 @@
         "crestNameFurigana": "",
         "otherName": "兎馬場",
         "details": "Ｈ26三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -10884,7 +10884,7 @@
         "crestNameFurigana": "",
         "otherName": "鷲ケ岳",
         "details": "Ｈ20三角点標高改訂",
-        "address": "<img src=img/gaiji6.gif border=0> 高地",
+        "address": "高地",
         "prefectures": [
             "岐阜県"
         ]
@@ -11369,12 +11369,12 @@
         "latitude": "354749",
         "longitude": "1363736",
         "height": "1354",
-        "name": "<img src=img/gaiji7.gif border=0> ",
+        "name": "",
         "nameFurigana": "びょうぶざん",
         "crestName": "",
         "crestNameFurigana": "",
         "otherName": "屏風山",
-        "details": " ",
+        "details": "",
         "address": "越美・伊吹山地",
         "prefectures": [
             "福井県",
@@ -16933,7 +16933,7 @@
         "crestNameFurigana": "",
         "otherName": "口之島",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（口之島）",
+        "address": "（口之島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -16949,7 +16949,7 @@
         "crestNameFurigana": "",
         "otherName": "中之島Ⅱ",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（中之島）",
+        "address": "（中之島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -16965,7 +16965,7 @@
         "crestNameFurigana": "",
         "otherName": "臥蛇島",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（臥蛇島）",
+        "address": "（臥蛇島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -16981,7 +16981,7 @@
         "crestNameFurigana": "",
         "otherName": "標高点",
         "details": "Ｈ20地形図更新に伴う標高改訂",
-        "address": "<img src=img/gaiji8.gif border=0>（諏訪之瀬島）",
+        "address": "（諏訪之瀬島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -16997,7 +16997,7 @@
         "crestNameFurigana": "",
         "otherName": "悪石島",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（悪石島）",
+        "address": "（悪石島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -17013,7 +17013,7 @@
         "crestNameFurigana": "",
         "otherName": "宝島",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（宝島）",
+        "address": "（宝島）",
         "prefectures": [
             "鹿児島県"
         ]
@@ -17029,7 +17029,7 @@
         "crestNameFurigana": "",
         "otherName": "横当島",
         "details": "",
-        "address": "<img src=img/gaiji8.gif border=0>（横当島）",
+        "address": "（横当島）",
         "prefectures": [
             "鹿児島県"
         ]
