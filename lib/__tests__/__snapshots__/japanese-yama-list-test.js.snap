@@ -685,7 +685,7 @@ Array [
     "name": "美瑛岳",
     "nameFurigana": "びえいだけ",
     "no": "0042",
-    "otherName": "<img src=img/gaiji1.gif border=0>",
+    "otherName": "",
     "prefectures": Array [
       "北海道",
     ],
@@ -3317,7 +3317,7 @@ Array [
     "height": "553",
     "latitude": "383432",
     "longitude": "1404219",
-    "name": "<img src=img/gaiji2.gif border=0>",
+    "name": "",
     "nameFurigana": "やくらいさん",
     "no": "0206",
     "otherName": "薬来山",
@@ -3398,7 +3398,7 @@ Array [
     "height": "1841",
     "latitude": "380837",
     "longitude": "1402624",
-    "name": "蔵王山　　　　　　　　",
+    "name": "蔵王山",
     "nameFurigana": "ざおうざん（ざおうさん）",
     "no": "0211",
     "otherName": "測定点",
@@ -3414,7 +3414,7 @@ Array [
     "height": "1758",
     "latitude": "380740",
     "longitude": "1402653",
-    "name": "蔵王山　　　　　　　　",
+    "name": "蔵王山",
     "nameFurigana": "ざおうざん（ざおうさん）",
     "no": "0212",
     "otherName": "刈田岳",
@@ -3424,13 +3424,13 @@ Array [
   },
   Object {
     "address": "奥羽山脈南部（蔵王山とその周辺）",
-    "crestName": "<img src=img/gaiji3.gif border=0>",
+    "crestName": "",
     "crestNameFurigana": "びょうぶだけ",
     "details": "山名変更：Ｈ30関係自治体からの申請による",
     "height": "1825",
     "latitude": "380545",
     "longitude": "1402834",
-    "name": "蔵王山　　　　　　　　",
+    "name": "蔵王山",
     "nameFurigana": "ざおうざん（ざおうさん）",
     "no": "0213",
     "otherName": "標高点",
@@ -3446,7 +3446,7 @@ Array [
     "height": "1705",
     "latitude": "380432",
     "longitude": "1402844",
-    "name": "蔵王山　　　　　　　　",
+    "name": "蔵王山",
     "nameFurigana": "ざおうざん（ざおうさん）",
     "no": "0214",
     "otherName": "不忘山",
@@ -3668,7 +3668,7 @@ Array [
   },
   Object {
     "address": "朝日山地",
-    "crestName": "　",
+    "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ23三角点再設置",
     "height": "273",
@@ -3813,7 +3813,7 @@ Array [
   },
   Object {
     "address": "朝日山地",
-    "crestName": "　",
+    "crestName": "",
     "crestNameFurigana": "",
     "details": "",
     "height": "1417",
@@ -3883,10 +3883,10 @@ Array [
     "height": "1636",
     "latitude": "375633",
     "longitude": "1393632",
-    "name": "<img src=img/gaiji4.gif border=0>",
+    "name": "",
     "nameFurigana": "えぶりさしだけ",
     "no": "0241",
-    "otherName": "<img src=img/gaiji4-1.gif border=0>",
+    "otherName": "",
     "prefectures": Array [
       "新潟県",
     ],
@@ -4544,7 +4544,7 @@ Array [
     "address": "南会津・尾瀬",
     "crestName": "一番岳",
     "crestNameFurigana": "いちばんだけ",
-    "details": "　",
+    "details": "",
     "height": "1636",
     "latitude": "370727",
     "longitude": "1393927",
@@ -4724,7 +4724,7 @@ Array [
   },
   Object {
     "address": "南会津・尾瀬",
-    "crestName": "<img src=img/gaiji5.gif border=0>",
+    "crestName": "",
     "crestNameFurigana": "しばやすぐら",
     "details": "",
     "height": "2356",
@@ -7354,7 +7354,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -7370,7 +7370,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂　山名（よみ）変更：Ｈ27関係自治体からの申請による",
@@ -7386,7 +7386,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -7403,7 +7403,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7420,7 +7420,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7437,7 +7437,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7454,7 +7454,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "大日岳（だいにちだけ）　Ｈ20現地計測による標高改訂",
@@ -7471,7 +7471,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7488,7 +7488,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7504,7 +7504,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7521,7 +7521,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7537,7 +7537,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7553,7 +7553,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7570,7 +7570,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "白馬鑓ヶ岳（しろうまやりがたけ）",
@@ -7587,7 +7587,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7604,7 +7604,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7620,7 +7620,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7637,7 +7637,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7654,7 +7654,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7671,7 +7671,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7688,7 +7688,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7705,7 +7705,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7722,7 +7722,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7739,7 +7739,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0>山 脈北部",
+    "address": "山 脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7756,7 +7756,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7773,7 +7773,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7790,7 +7790,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -7807,7 +7807,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7824,7 +7824,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7841,7 +7841,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7858,7 +7858,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7874,7 +7874,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7890,7 +7890,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7906,7 +7906,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7922,7 +7922,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7939,7 +7939,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7957,7 +7957,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -7973,7 +7973,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -7989,7 +7989,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8005,7 +8005,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8021,7 +8021,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ16現地計測による標高改訂",
@@ -8037,7 +8037,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8053,7 +8053,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "つるがごぜん",
@@ -8069,7 +8069,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8085,7 +8085,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8101,7 +8101,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8117,7 +8117,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "大汝山",
     "crestNameFurigana": "おおなんじやま",
     "details": "",
@@ -8133,7 +8133,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8149,7 +8149,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8165,7 +8165,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "浄土山",
     "crestNameFurigana": "じょうどさん",
     "details": "",
@@ -8181,7 +8181,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8197,7 +8197,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8213,7 +8213,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -8229,7 +8229,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8245,7 +8245,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8261,7 +8261,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8278,7 +8278,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8295,7 +8295,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8312,7 +8312,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8329,7 +8329,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "ゆみおれだけ",
@@ -8345,7 +8345,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8361,7 +8361,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -8377,7 +8377,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8393,7 +8393,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8409,7 +8409,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -8425,7 +8425,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8441,7 +8441,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8457,7 +8457,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈北部",
+    "address": "山脈北部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "ありあけさん",
@@ -8473,7 +8473,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "おてんしょうだけ",
@@ -8489,7 +8489,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8505,7 +8505,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8521,7 +8521,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8537,7 +8537,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8553,7 +8553,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8569,7 +8569,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8585,7 +8585,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8601,7 +8601,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8617,7 +8617,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8633,7 +8633,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8650,7 +8650,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "なかのだけ",
@@ -8667,7 +8667,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8684,7 +8684,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8701,7 +8701,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8718,7 +8718,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8735,7 +8735,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8751,7 +8751,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8768,7 +8768,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8785,7 +8785,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8801,7 +8801,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8818,7 +8818,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8834,7 +8834,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "剣ヶ峰",
     "crestNameFurigana": "けんがみね",
     "details": "",
@@ -8851,7 +8851,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -8868,7 +8868,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 山脈南部",
+    "address": "山脈南部",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -9175,7 +9175,7 @@ Array [
   },
   Object {
     "address": "木曽山脈",
-    "crestName": " 赤梛岳",
+    "crestName": "赤梛岳",
     "crestNameFurigana": "あかなぎだけ",
     "details": "",
     "height": "2798",
@@ -10715,7 +10715,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10731,7 +10731,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10748,7 +10748,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10764,7 +10764,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10781,7 +10781,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10797,7 +10797,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "さるがばんばやま",
@@ -10813,7 +10813,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10829,7 +10829,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10845,7 +10845,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -10861,7 +10861,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ26三角点標高改訂",
@@ -10877,7 +10877,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji6.gif border=0> 高地",
+    "address": "高地",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ20三角点標高改訂",
@@ -11371,11 +11371,11 @@ Array [
     "address": "越美・伊吹山地",
     "crestName": "",
     "crestNameFurigana": "",
-    "details": " ",
+    "details": "",
     "height": "1354",
     "latitude": "354749",
     "longitude": "1363736",
-    "name": "<img src=img/gaiji7.gif border=0> ",
+    "name": "",
     "nameFurigana": "びょうぶざん",
     "no": "0700",
     "otherName": "屏風山",
@@ -16926,7 +16926,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（口之島）",
+    "address": "（口之島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -16942,7 +16942,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（中之島）",
+    "address": "（中之島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -16958,7 +16958,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（臥蛇島）",
+    "address": "（臥蛇島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -16974,7 +16974,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（諏訪之瀬島）",
+    "address": "（諏訪之瀬島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "Ｈ20地形図更新に伴う標高改訂",
@@ -16990,7 +16990,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（悪石島）",
+    "address": "（悪石島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -17006,7 +17006,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（宝島）",
+    "address": "（宝島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
@@ -17022,7 +17022,7 @@ Array [
     ],
   },
   Object {
-    "address": "<img src=img/gaiji8.gif border=0>（横当島）",
+    "address": "（横当島）",
     "crestName": "",
     "crestNameFurigana": "",
     "details": "",
