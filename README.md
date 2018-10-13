@@ -44,6 +44,10 @@ console.log(yamaList);
 */
 ```
 
+## Use Case
+
+- [azu/yama-no-tenki: 山の天気をすばやく検索するウェブアプリ](https://github.com/azu/yama-no-tenki)
+
 ## Changelog
 
 See [Releases page](https://github.com/azu/japanese-yama-list/releases).
